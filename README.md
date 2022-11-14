@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Venkateswarlu
 #### A passionate Web Developer with knowledge of JavaScript and MERN
 
-Hello, my name is Venkateswarlu and I am a web developer. I have a passion for creating beautiful and functional websites. I am always looking to push myself and learn new technologies so that I can provide the best possible experience for my users.
+Hello, my name is Venkateswarlu and I am a web developer. I have a passion for creating beautiful and functional websites. I am always looking to push myself and learn new technologies so that I can provide the best possible experience for my organization or users.
 
 
 - 📫 How to reach me: venki.apiiit@gmail.com 
