@@ -4,7 +4,7 @@
 Hello, my name is Venkateswarlu and I am a web developer. I have a passion for creating beautiful and functional websites. I am always looking to push myself and learn new technologies so that I can provide the best possible experience for my organization or users.
 
 
-- 📫 How to reach me: venki.apiiit@gmail.com 
+- 📫 How to reach me: hello@venki.me 
 
 
 <h3 align="left">Languages and Tools:</h3>
