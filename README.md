@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Hello, my name is Venkateswarlu and I am a Full Stack Developer. I have a passion for creating beautiful and functional websites. I am always looking to push myself and learn new technologies so that I can provide the best possible experience for my organization or users.<br><br><br>- 🔭 I’m currently working as a Back-end Developer<br>- 📚 I'm currently learning GraphQl, Java EE<br>- ⚡ In my free time I love spending time with friends and family.</p>
+<p align="left">Hello, my name is Venkateswarlu and I am a Full Stack Developer. I have a passion for creating beautiful and functional websites. I am always looking to push myself and learn new technologies so that I can provide the best possible experience for my organization or users.<br><br><br>- 🔭 I’m currently working as a Back-end Developer<br>- ⚡ In my free time I love spending time with friends and family.</p>
 
 ###
 
